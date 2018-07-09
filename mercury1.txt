@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is mercury
+=======
+Hg
+>>>>>>> 91201bc7e47c9495cd5a9a1aa16a1caf64c69f7c
